@@ -1,0 +1,6 @@
+{
+  "name": "FoodGuard AI — Agentic Food Safety Intelligence",
+  "description": "Multi-agent food safety intelligence platform coordinating visual contamination inspection, IoT cold-chain sentinel monitoring, weighted risk scoring, automated recall coordination, regulatory compliance reporting, and predictive outbreak prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
